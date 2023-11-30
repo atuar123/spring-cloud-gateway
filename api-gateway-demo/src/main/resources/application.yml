@@ -18,7 +18,6 @@ spring:
             - Path=/payment/api/v1/**
           filters:
             - LoggingFilter=
-
 eureka:
   client:
     service-url:
